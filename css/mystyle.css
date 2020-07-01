@@ -1,0 +1,20 @@
+
+.heading-page
+{
+    text-align: center;
+    font-size: 2rem;
+    color: #000fe0;
+    text-decoration: underline;
+}
+.h3-special
+{
+    text-align: center;
+    background-color: #35c2f3;
+    height: 3rem;
+    padding-top: 1.5rem;
+    color: green;
+}
+body
+{
+    background-color: #c4e2df;
+}
