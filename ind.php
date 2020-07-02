@@ -191,6 +191,9 @@
                                     <li class="dropdown">
                                         <a href="#">Get Involved</a>
                                         <ul>
+                                        <li><a href="register.php">Register</a></li>
+                                            <li><a href="login.php">Login</a></li>
+                                            <li><a href="review.php">Review</a></li>
                                             <li><a href="join-team.php">Join Our Team</a></li>
                                             <li><a href="corporate-social.php">Corporate Social Responsibility</a></li>
                                             <li><a href="institutional.php">Institutional partnerships</a></li>
@@ -306,6 +309,9 @@
                                     <li class="dropdown">
                                         <a href="#">Get Involved</a>
                                         <ul>
+                                        <li><a href="register.php">Register</a></li>
+                                            <li><a href="login.php">Login</a></li>
+                                            <li><a href="review.php">Review</a></li>
                                             <li><a href="join-team.php">Join Our Team</a></li>
                                             <li><a href="corporate-social.php">Corporate Social Responsibility</a></li>
                                             <li><a href="institutional.php">Institutional partnerships</a></li>

@@ -109,7 +109,7 @@
 
                             <div class="navbar-collapse collapse clearfix">
                                 <ul class="navigation clearfix">
-                                    <li class="current"><a href="helpinghand.php">Home</a></li>
+                                    <li class="current"><a href="index.php">Home</a></li>
                                     <li class="dropdown">
                                         <a href="about-us.php">About Us</a>
                                         <ul>
@@ -176,7 +176,7 @@
                                         <ul>
                                         <li><a href="register.php">Register</a></li>
                                             <li><a href="login.php">Login</a></li>
-                                            <li><a href="index.php">Review</a></li>
+                                            <li><a href="review.php">Review</a></li>
                                             <li><a href="join-team.php">Join Our Team</a></li>
                                             <li><a href="corporate-social.php">Corporate Social Responsibility</a></li>
                                             <li><a href="institutional.php">Institutional partnerships</a></li>
@@ -224,7 +224,7 @@
 
                             <div class="navbar-collapse collapse clearfix">
                                 <ul class="navigation clearfix">
-                                    <li class="current"><a href="helpinghand.php">Home</a></li>
+                                    <li class="current"><a href="index.php">Home</a></li>
                                     <li class="dropdown">
                                         <a href="about-us.php">About Us</a>
                                         <ul>
@@ -292,7 +292,7 @@
                                         <ul>
                                         <li><a href="register.php">Register</a></li>
                                             <li><a href="login.php">Login</a></li>
-                                            <li><a href="index.php">Review</a></li>
+                                            <li><a href="review.php">Review</a></li>
                                             <li><a href="join-team.php">Join Our Team</a></li>
                                             <li><a href="corporate-social.php">Corporate Social Responsibility</a></li>
                                             <li><a href="institutional.php">Institutional partnerships</a></li>
