@@ -205,7 +205,7 @@
                 <div class="auto-container clearfix">
                     <!--Logo-->
                     <div class="logo pull-left">
-                        <a href="#" class="img-responsive"><img src="images/logo.png" alt="#"></a>
+                        <a href="#" class="img-responsive" style="height: 10rem;"><img src="images/logo.png" alt="#" style="height: 10rem;"></a>
 
                     </div>
 
